@@ -76,7 +76,7 @@ Please review wireframes [here](place the link to wireframes).
 | Week 5 | Nov 29, Sun | Development IV: Weekly Retrospective |
 | Week 5 | Nov 30, Mon | Development IV: Individual team demo review |
 | Week 6 | Dec 1, Tue | **Third Release + Demo** |
-| Week 6 | Dec 1 - 8 | Testing II: Final round of testing and debugging. Submit final version to App Store. |
+| Week 6 | Dec 1 - 8 | Testing II: Final round of testing and debugging. Submit final version to App Store. Rehearse and polish demo. |
 | Week 6 | Dec 3, Thu | Individual Pitches Review |
 | Week 6 | Dec 5, Sat | Individual Demo Review |
 | Week 6 | Dec 6, Sun | Testing II: Weekly Retrospective |
