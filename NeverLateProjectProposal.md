@@ -94,16 +94,23 @@ Please review wireframes [here](place the link to wireframes).
 
 | Week | Date | Sprint | 
 |----|----|---|
-| Week 1 | Aug 7 - 9 | Research: Submit project proposal (8/9). Create wireframes. Research robot design and consolidate resources. Order hardware components for experimentation. |
-| Week 2 | Aug 9 - 11 | Research II: Submit revised proposal (8/11). Begin experimenting with hardware and writing code to interface Android with hardware. Research programming environments for children. |
-| Week 2 | Aug 11 - 16 | Development I: Build Android-Hardware interface. Experiment with programming environment. Prototype graphical language. Experiment with robot design.|
-| Week 3 | Aug 17 - 23 | Development II: Build out programming environment. Wrap code to interface with the robot in graphical language commands. Finalize robot design. |
-| Week 4 | Aug 24 - 31 | Development III: Enrich UI/UX. Build robot assembly walkthrough activity. Finalize app. |
-| Week 5 | Sep 1, 7pm | First Release + Demo |
-| Week 5 | Sep 2 - 8 | Testing I: Write tests and debug. Polish features for the second release. Implement bonuses. |
-| Week 6 | Sep 9, 7pm | Second Release + Demo |
-| Week 6 | Sep 10 - 14 | Testing II: Final round of testing and debugging. |
-| Week 7 | Sep 15, 7pm | Final Demo Day |
+| Week 1 | Oct 27 - Nov 2 | Research, brainstorming and discussion: Submit project proposal (11/3). |
+| Week 2 | Nov 3 - 9 | Research II, Development I: Submit revised proposal (11/10). Create wireframes. Begin experimenting with parts of the project and writing code to test technical implementation ideas: maps, venmo, contacts, calendar, time picker, UI, data storage, data structure and model. |
+| Week 3 | Nov 10 - 16 | Development II: Build interface and code for the MVP. Experiment with design. Create logo, presentation deck. Push beta builds. |
+| Week 3 | Nov 15, Sun | Development II: Weekly Retrospective |
+| Week 3 | Nov 17, Tue | First Release + Demo. Logo, presentation deck, beta build due. |
+| Week 4 | Nov 17 - 23 | Development III: Finalize the app design. Prepare the app for the second release. Prepare presentation scripts. |
+| Week 4 | Nov 22, Sun | Development III: Weekly Retrospective |
+| Week 5 | Nov 24, Tue | Second Release + Demo. Scripts due. |
+| Week 5 | Nov 24 - 30 | Development IV: Enrich UI/UX. Finalize app. Prepare personal pithes and rehearse the demo. Testing I: Write tests and debug. Polish features for the third release. Implement bonuses.|
+| Week 5 | Nov 29, Sun | Development IV: Weekly Retrospective |
+| Week 5 | Nov 30, Mon | Development IV: Individual team demo review |
+| Week 6 | Dec 1, Tue | Third Release + Demo |
+| Week 6 | Dec 1 - 8 | Testing II: Final round of testing and debugging. Submit final version to App Store. |
+| Week 6 | Dec 3, Thu | Individual Pitches Review |
+| Week 6 | Dec 5, Sat | Individual Demo Review |
+| Week 6 | Dec 6, Sun | Testing II: Weekly Retrospective |
+| Week 6 | Dec 8, 7pm | Final Demo Day |
 
 #### Team Member Responsibilities
 
