@@ -44,14 +44,15 @@ We aim to solve two main problems.
 * On first launch, the user is presented with illustration and text instructions on using the app and app's concept.
 
 **Venmo Integration**
-* Set up payments between two users, withdrawal or deposit depending on what happens to the contractee. If a user is late to the place they have to be at by a certain time, the app will send a venmo payment to their accountability buddy of the amount the user set up. 
-**Apple Maps and Geofences Integration**
+* Set up payments between two users, withdrawal or deposit depending on what happens to the contractee. If a user is late to the place they have to be at by a certain time, the app will send a venmo payment to their accountability buddy of the amount the user set up.  
+
+**Apple Maps Integration and Building Geofences**
 * Use mapkit to pinpoint current location, search a location or drop a pin to save a user's location "to be on time". The app will build a geofence around the saved locaiton. The app will start tracking user's location, and if a user is not at a place they have to be at by a certain time, the app will send a venmo payment from their account to their accountability buddy. 
 
 #### Bonus features
 
-*Automatic social media updates about lateness/on time status of a user (aka "public shaming").
-*Twilio to be able to send text messages whenever a contract is complete, or when money is taken out of your Venmo account.
+*Automatic social media updates about lateness/on time status of a user (aka "public shaming").  
+*Twilio to be able to send text messages whenever a contract is complete, or when money is taken out of your Venmo account.  
 
 
 ### Wireframe
