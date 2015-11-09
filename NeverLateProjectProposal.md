@@ -51,8 +51,8 @@ We aim to solve two main problems.
 
 #### Bonus features
 
-*Automatic social media updates about lateness/on time status of a user (aka "public shaming").  
-*Twilio to be able to send text messages whenever a contract is complete, or when money is taken out of your Venmo account.  
+* Automatic social media updates about lateness/on time status of a user (aka "public shaming").  
+* Twilio to be able to send text messages whenever a contract is complete, or when money is taken out of your Venmo account.  
 
 
 ### Wireframe
@@ -107,13 +107,13 @@ Please review wireframes [here](place the link to wireframes).
 
 #### Team Member Responsibilities
 
-**Charles:**
-
-Mapkit, Twilio, Logo.
-
 **Eric:**
 
 UI/UX - Wireframes of screens, storyboard, maintaining consistent design feel through the app.
+
+**Charles:**
+
+Mapkit, Twilio, Logo.
 
 **Ayuna:**
 
