@@ -90,9 +90,9 @@ UI/UX - Wireframes of screens, storyboard, maintaining consistent design feel th
 
 **Charles:**
 
-Mapkit, Twilio, Logo.
+Mapkit, Twilio, Logo, Push notifications.
 
 **Ayuna:**
 
-Manages the team to ensure work is on track with timeline. Venmo integration, Contacts.
+Manages the team to ensure work is on track with timeline. Venmo integration, Contacts. Popover views, Calendar picker. 
 
