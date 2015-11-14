@@ -60,7 +60,10 @@ Please review wireframes [here](place the link to wireframes).
 
 ## Execution
 
-#### Timeline
+#### Timeline  
+
+Google Doc- [Project Plan Timeline] (https://docs.google.com/spreadsheets/d/1NR0xm_aVJFg5N8yvTe-yZC4WhvOKhMwkkTMJs5-q5IE/edit?usp=sharing)
+
 
 | Week | Date | Sprint | 
 |----|----|---|
