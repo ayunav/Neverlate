@@ -1,7 +1,7 @@
 ## Weekly Retro Template  
 
 **Goals for last week**:
-- Finish the proposal and submit it for review. Experiment with parts of code to test out the concept. Start building the MVP product. Create wireframes and layout in the storyboard.  
+- Finish the proposal and submit it for review. Experiment with parts of code to test out the concept. Start building the MVP product. Create wireframes and layout in the storyboard. Brainstorm, create a draft for the logo.  
 
 **Goals for this week**:
 - Finish MVP product: a user should be able to input and store all the data required for creating a goal, a user should be able to get notifications and not/charged whether she is on time/late. Have David user test it before Friday, 20 Nov. Finish the wireframing for all parts of the app and layout the Profile Stats screen in the storyboard.   
