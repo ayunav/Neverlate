@@ -1,8 +1,10 @@
 ## Weekly Retro Template  
 
 **Goals for last week**:
+- Finish the proposal and submit it for review. Experiment with parts of code to test out the concept. Start building the MVP product. Create wireframes and layout in the storyboard.  
 
 **Goals for this week**:
+- Finish MVP product: a user should be able to input and store all the data required for creating a goal, a user should be able to get notifications and not/charged whether she is on time/late. Have David user test it before Friday, 20 Nov. Finish the wireframing for all parts of the app and layout the Profile Stats screen in the storyboard.   
 
 **Guiding Questions** (consider before the meeting):
 
@@ -14,21 +16,17 @@
 **Team Member Analysis**:
 If you did not meet your goals, how will this affect the progression of the product? What will you do differently to meet your goals this week?
 
-  *  Team Member #1
+  *  Ayuna
     * Goals/Responsibilities Last Week:
         * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
-  *  Team Member #2    
+  *  Charles    
     * Goals/Responsibilities Last Week:
          * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
-  *  Team Member #3
+  *  Eric
     * Goals/Responsibilities Last Week:
         * Did you meet your goals/responsibilities last week? Why or why not?
-    * Goals/Responsibilities This Week:
-  *  (Team Member #4)
-    * Goals/Responsibilities Last Week:
-       * Did you meet your goals/responsibilities last week? Why or why not?
     * Goals/Responsibilities This Week:
 
 **Additional Discussion Topics**:
