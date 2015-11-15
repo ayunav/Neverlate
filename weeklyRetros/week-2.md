@@ -18,8 +18,11 @@ If you did not meet your goals, how will this affect the progression of the prod
 
   *  Ayuna
     * Goals/Responsibilities Last Week:
-        * Did you meet your goals/responsibilities last week? Why or why not?
+      - Finished writing the proposal, created Project Plan Timeline, wrote out user stories in the project Trello board, researched and wrote code to test Venmo API and SDK, researched and wrote code to access contacts and select "buddy", researched and experimented with Calendar pods to test out selecting and storing "dates to be on time", coordinated the project and meeting with mentor, set up Parse app and database, wrote code to save User data to Parse database.        
+        * Did you meet your goals/responsibilities last week? Why or why not? 
+         - yes
     * Goals/Responsibilities This Week:
+      - Write code to store all user input data to Parse database. Figure out how to implement selecting and storing user data for time and date(s) "to be on time". Work with the team to figure out how to implement checking user's location at a time and trigger desired events (charging/not charging based on on time/lateness, text messages, local notifications), write the code and implement user testing. 
   *  Charles    
     * Goals/Responsibilities Last Week:
          * Did you meet your goals/responsibilities last week? Why or why not?
