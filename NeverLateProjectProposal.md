@@ -57,12 +57,14 @@ We aim to solve two main problems.
 
 ### Wireframe
 Please review wireframes [here](https://www.dropbox.com/sh/9kjgqti1tr437rx/AAAswrCjfBdhP-NHhuG3btlya?dl=0).
+[Presentation Deck] (http://slides.com/charleskang/neverlate#/)
+
 
 ## Execution
 
 #### Timeline  
 
-Google Doc- [Project Plan Timeline] (https://docs.google.com/spreadsheets/d/1NR0xm_aVJFg5N8yvTe-yZC4WhvOKhMwkkTMJs5-q5IE/edit?usp=sharing)
+Google Doc - [Project Plan Timeline] (https://docs.google.com/spreadsheets/d/1NR0xm_aVJFg5N8yvTe-yZC4WhvOKhMwkkTMJs5-q5IE/edit?usp=sharing)
 
 
 | Week | Date | Sprint | 
@@ -89,7 +91,7 @@ Google Doc- [Project Plan Timeline] (https://docs.google.com/spreadsheets/d/1NR0
 
 **Eric:**
 
-UI/UX - Wireframes of screens, storyboard, maintaining consistent design feel through the app.
+UI/UX - Wireframes of screens, storyboard, maintaining consistent design feel through the app. Popover views. 
 
 **Charles:**
 
@@ -97,5 +99,5 @@ Mapkit, Twilio, Logo, Push notifications.
 
 **Ayuna:**
 
-Manages the team to ensure work is on track with timeline. Venmo integration, Contacts. Popover views, Calendar picker. 
+Manages the team to ensure work is on track with timeline. Venmo integration, Contacts. Back-end database. Data architecture. Product management.  
 
