@@ -45,12 +45,18 @@ If you did not meet your goals, how will this affect the progression of the prod
   *  How can you improve productivity and get the most work done within the next week?
   
     *  Compare your work planned with what your work completed. 
+    *  
      We were on time and on track with our work, on task to implement more bonus features and solidify the app's core functionality 
     *  Is the divison of roles within your team working?
+    *  
 Yes, the delegation of work seems to be working pretty well, although I (charles) have had to ask for help for some bugs that I encountered while moving my code to the main project, such as loading code from a custom nib file. For future reference, make a custom class and use awakeFomNib.
+
     *  Are you getting adequate support? How are you reviewing code?
+    
      Definitely. David has been very helpful so far, and Mike is helpful as always. I don't think we are reviewing code that often, but I do go through my code and see if there are methods or lines of code we simply do not need. 
+     
     * How can you improve productivity and get the most work done within the next week?
+    
     Increase communication and punctuality, ask for help if you need it, just try to be be as productive as possible without waiting or trying to work on a problem that is taking too long. If it's not working even after hours of trying, move on to another feature and fix the error later on. 
     
 
