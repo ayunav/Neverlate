@@ -24,7 +24,7 @@ If you did not meet your goals, how will this affect the progression of the prod
 
 We will prioritize our time better. 
 
-We'll master git and github workflow. 
+We'll work on improving our skills with git and github workflow. 
 
 
   *  Ayuna
