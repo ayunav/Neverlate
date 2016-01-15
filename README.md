@@ -1,7 +1,7 @@
 # Neverlate
 
 
-**Team**: Charles Kang, Eric Sze, Ayuna Vogel. 
+**Team**: Ayuna Vogel, Charles Kang, Eric Sze. 
 
 
 **Neverlate** app helps people who are often late to build a good habit of getting to places on time by utilizing the concept of a monetary incentive and an "accountability buddy". 
@@ -15,7 +15,7 @@ Promise your friend to be on time, and if you are late, you gotta pay your buddy
 For more information, check out our [project proposal](https://github.com/ayunav/NeverLateApp/blob/master/NeverLateProjectProposal.md).
 
 
-Made by Charles Kang, Eric Sze and Ayuna Vogel for Access Code 2.2.
+Made by Ayuna Vogel, Charles Kang and Eric Sze for Access Code 2.2.
 
 
 
