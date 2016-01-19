@@ -15,7 +15,7 @@ Promise your friend to be on time, and if you are late, you gotta pay your buddy
 For more information, check out our [project proposal](https://github.com/ayunav/NeverLateApp/blob/master/NeverLateProjectProposal.md).
 
 
-Made by Ayuna Vogel, Charles Kang and Eric Sze for Access Code 2.2.
+Made with ♥ ️in NYC by Ayuna Vogel, Charles Kang and Eric Sze for [Access Code 2.2] (http://www.c4q.nyc/accesscode).
 
 
 
