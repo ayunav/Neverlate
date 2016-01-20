@@ -161,13 +161,29 @@ We are committed to conducting our business in accordance with these principles 
 
 
 Below are some explicit definitions of legal terms: we recommend a strong caffeinated beverage before reading.
+
+
 Indemnity
+
+
 You agree to defend, indemnify and hold harmless Neverlate and its subsidiaries, agents, licensors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (i) your use of and access to Neverlate, including any data or content transmitted or received by you; (ii) your violation of any term of these Terms; (iii) your violation of any third-party right, including without limitation any right of privacy or intellectual property rights; (iv) your violation of any applicable law, rule or regulation; (v) any claim or damages that arise as a result of any of your stuff or any that is submitted via your account; or (vi) any other party’s access and use of Neverlate with your unique username, password or other appropriate security code.
+
+
 No Warranty
+
+
 We promise to provide you with a great service, but we can’t promise everything. Neverlate is provided on an “as-is” and “as available” basis. Use of Neverlate and the software is at your own risk. To the maximum extent permitted by applicable law, Neverlate and the software is provided without warranties of any kind, whether expressed or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Without limiting the foregoing, Neverlate does not warrant that the content is accurate, reliable or correct; that Neverlate or the software will be available at any particular time or location, uninterrupted or secure; that any defects or errors will be corrected; or that Neverlate or the software is free of viruses or other harmful components. Any content downloaded or otherwise obtained through the use of Neverlate is downloaded at your own risk and you will be solely responsible for any damage to your mobile device or loss of data that results from such download or use of the service.
+
+
 Limitation of Liability
+
+
 To the maximum extent permitted by law, in no event will Neverlate, its affiliates, officers, employees, agents, suppliers or licensors be liable for (a) any indirect, special, incidental, punitive, exemplary or consequential (including loss of use, data, business, or profits) damages, regardless of legal theory, whether or not Neverlate has been warned of the possibility of such damages, and even if a remedy fails of its essential purpose; (b) any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the greater of $0.01. Some states do not allow the types of limitations in this paragraph, so they may not apply to you. Neverlate is controlled and operated from facilities in the United States. Neverlate makes no representations that Neverlate is appropriate or available for use in other locations. Those who access or use Neverlate from other jurisdictions do so at their own volition and are entirely responsible for compliance with all applicable United States and local laws and regulations, including but not limited to export and import regulations.
+
+
 Governing Law and Arbitration.
+
+
 Governing Law: Any claim relating to Neverlate's mobile application shall be governed by the laws of the State of New York without regard to its conflict of law provisions. General Terms and Conditions applicable to Use of a mobile app.
 These Terms constitute the entire and exclusive agreement between you and Neverlate with respect to Neverlate, and supersede and replace any other agreements, terms and conditions applicable to Neverlate. These Terms create no third party beneficiary rights. Neverlate’s failure to enforce a provision is not a waiver of its right to do so later. If a provision is found unenforceable the remaining provisions of these Terms will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible. You may not assign any of your rights in these Terms, and any such attempt is void, but may be assigned by Neverlate without restriction. Neverlate and you are not legal partners or agents; instead, our relationship is that of independent contractors.
 
