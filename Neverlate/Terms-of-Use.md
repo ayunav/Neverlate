@@ -38,22 +38,22 @@ You represent and warrant that if you are an individual, you are of legal age to
 Below you will find clear and easy to understand definitions for terms commonly used by the Neverlate service.
 
 
-4.1) User: the user, owner, creator, or person who signed up for the Neverlate service using your own name and not anyone else’s.
+**4.1) User**: the user, owner, creator, or person who signed up for the Neverlate service using your own name and not anyone else’s.
 
 
-4.2) Accountability Buddy: the friend, acquaintance, member, associate, or person who you, the User,  select as your accountability buddy to receive the money from your Venmo account if you are late to your destination on a set date and time. The Accountability Buddy will not, or ever receive money as any kind of winning, or bet. This is simply like any other Venmo transaction.
+**4.2) Accountability Buddy**: the friend, acquaintance, member, associate, or person who you, the User,  select as your accountability buddy to receive the money from your Venmo account if you are late to your destination on a set date and time. The Accountability Buddy will not, or ever receive money as any kind of winning, or bet. This is simply like any other Venmo transaction.
 
 
-4.3) Payment Transaction: the amount of money that the Accountability Buddy shall receive and you, the User, will need to pay if you are late to your set destination. This payment transaction is NOT any sort of winning from a bet, but a normal Venmo transaction done by two consenting parties. If you do not wish to have monetary consequences when setting your Neverlate Goal, you may feel free to deny access from your Venmo account to the Neverlate Service at anytime.
+**4.3) Payment Transaction**: the amount of money that the Accountability Buddy shall receive and you, the User, will need to pay if you are late to your set destination. This payment transaction is NOT any sort of winning from a bet, but a normal Venmo transaction done by two consenting parties. If you do not wish to have monetary consequences when setting your Neverlate Goal, you may feel free to deny access from your Venmo account to the Neverlate Service at anytime.
 
 
-4.4) Goal: you, the User, can set your Goal to be on time to a set destination on a set date and time and to select your Accountability Buddy and the amount of the Payment Transaction by using the “Set Goal” screen interface of the Neverlate App. Before pressing the “Be Neverlate!” button on the “Set Goal” screen, you will be prompted with an alert to confirm the details of your Neverlate Goal. After you hit “Confirm” button, your Neverlate Goal will be created and saved. 
+**4.4) Goal**: you, the User, can set your Goal to be on time to a set destination on a set date and time and to select your Accountability Buddy and the amount of the Payment Transaction by using the “Set Goal” screen interface of the Neverlate App. Before pressing the “Be Neverlate!” button on the “Set Goal” screen, you will be prompted with an alert to confirm the details of your Neverlate Goal. After you hit “Confirm” button, your Neverlate Goal will be created and saved. 
 
 
-4.5) What happens if a user is late: if you, the User, are late to the set destination of your Goal, the Venmo transaction will take place. You, the User, are considered to be late if you are not inside the geofence, or perimeter of your set destination at the set date and time. Not being inside the geofence or perimeter at the set date and time will initiate a Venmo transaction for the set amount of money from you, the User, to your Accountability Buddy, whom you selected, set and confirmed at the “Set Goal” screen of the Neverlate App.
+**4.5) What happens if a user is late**: if you, the User, are late to the set destination of your Goal, the Venmo transaction will take place. You, the User, are considered to be late if you are not inside the geofence, or perimeter of your set destination at the set date and time. Not being inside the geofence or perimeter at the set date and time will initiate a Venmo transaction for the set amount of money from you, the User, to your Accountability Buddy, whom you selected, set and confirmed at the “Set Goal” screen of the Neverlate App.
 
 
-4.6) Geofence: geofence, or perimeter is a non-visible area of forty meters radius around the destination that you, the User, set for your Goal to be on time on a set date and time. The geofence will be used to determine if you, the User, reached your Goal’s set destination at the set date and time. 
+**4.6) Geofence**: geofence, or perimeter is a non-visible area of forty meters radius around the destination that you, the User, set for your Goal to be on time on a set date and time. The geofence will be used to determine if you, the User, reached your Goal’s set destination at the set date and time. 
 
 **CONTENT.**
 
