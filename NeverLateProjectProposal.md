@@ -47,7 +47,7 @@ We aim to solve two main problems.
 **Apple Maps Integration and Building Geofences**
 * Use mapkit to pinpoint current location, search a location or drop a pin to save a user's location "to be on time". The app will build a geofence around the saved locaiton. The app will start tracking user's location, and if a user is not at a place they have to be at by a certain time, the app will send a Venmo payment from their account to their accountability buddy. 
 
-#### Bonus features
+**Bonus features**
 
 * Automatic social media updates about lateness/on time status of a user (aka "public shaming") with an opt-out feature.  
 * Twilio to be able to send text message to an accountability buddy with a deep link to the app in the App Store, and/or to "accept the challenge" and to participate in the goal to be on time.  
@@ -87,7 +87,7 @@ Google Doc - [Project Plan Timeline] (https://docs.google.com/spreadsheets/d/1NR
 | Week 6 | Dec 6, Sun | Testing II: Weekly Retrospective |
 | Week 6 | Dec 8, 7pm | **Final Demo Day** |
 
-#### Team Member Responsibilities
+### Team Member Responsibilities
 
 **Eric:**
 
