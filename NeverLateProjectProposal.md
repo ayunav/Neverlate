@@ -89,6 +89,11 @@ Google Doc - [Project Plan Timeline] (https://docs.google.com/spreadsheets/d/1NR
 
 ### Team Member Responsibilities
 
+**Ayuna:**
+
+Manages the team to ensure work is on track with timeline. Venmo integration, Contacts. Back-end database. Data architecture. Product management.  
+
+
 **Eric:**
 
 UI/UX - Wireframes of screens, storyboard, maintaining consistent design feel through the app. Popover views. 
@@ -97,7 +102,4 @@ UI/UX - Wireframes of screens, storyboard, maintaining consistent design feel th
 
 Mapkit, Twilio, Logo, Push notifications.
 
-**Ayuna:**
-
-Manages the team to ensure work is on track with timeline. Venmo integration, Contacts. Back-end database. Data architecture. Product management.  
 
