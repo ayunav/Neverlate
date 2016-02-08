@@ -9,8 +9,6 @@
 
 ## The Problem   
 
-Not getting to your destination on time; need monetary consequences to be consistently on-time to where you need to be.  
-
 NeverLate is an iOS app for people who are often late and want to get into habit of getting to places on time.
 Existing products in the goal setting/habit building category that we currently use do not satisfy our needs as potential users: the apps are overly complicated, and do not engage and bring a user back into the app beyond sending reminders.        
 
