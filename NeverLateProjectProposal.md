@@ -12,7 +12,7 @@
 NeverLate is an iOS app for people who are often late and want to get into habit of getting to places on time.
 Existing products in the goal setting/habit building category that we currently use do not satisfy our needs as potential users: the apps are overly complicated, and do not engage and bring a user back into the app beyond sending reminders.        
 
-NeverLate solves the above issues by gamifying a user's experience, bringing in social aspect (do it with your friend aka accountability buddy) and monetary incentive aspect (a user will bet an amount of money (for example, $10) that will be sent to her accountability buddy in case she is late to a class/work/another place she has to be on time on a regular schedule). In surveying the App Store, we could find no such combination. Popular existing resources include:
+NeverLate solves the above issues by gamifying a user's experience, bringing in social aspect (do it with your friend aka accountability buddy) and monetary incentive aspect (a user will set an amount of money (for example, $10) that will be sent to her accountability buddy in case she is late to a class/work/another place she has to be on time). In surveying the App Store, we could find no such combination. Popular existing resources include:
 
 * [Stickk] (http://www.stickk.com/) - a user signs a commitment contract with the Stickk web app. If a user fails her commitment, her money at stake will go to a charity of her choice or anti-charity, an organization a user does not want to receive her money. Stickk assigns another person as a referee who checkins for the user if the user achieved/failed her commitment. 
 * [21Habit] (http://thenextweb.com/lifehacks/2012/12/29/20-apps-to-help-you-keep-your-new-year-resolutions/2/) - 21habit lets you break or make a habit and keep track of it for 21 days. When you sign up, you get a choice of a free mode or committed mode. The free mode has no monetary obligations while the committed mode requires that you invest $21 in your habit. For each day that you succeed, you’ll get $1 back and each time you fail, the $1 goes to charity.
@@ -20,7 +20,7 @@ NeverLate solves the above issues by gamifying a user's experience, bringing in 
 * [Aherk] (http://thenextweb.com/lifehacks/2012/12/29/20-apps-to-help-you-keep-your-new-year-resolutions/4/) - self-blackmail service that lets you define a goal, set a deadline and let your Facebook friends decide if you’ve achieved the goal. If not, it uploads a compromising photo of you on Facebook for all your friends to see. You may argue that you can just submit a non-compromising photo of you to the app, rendering the consequence negligible, but at least it incorporates a bit of social pressure into your goal by asking your friends to vet your success.
 
 
-We envision our primary users to be adults of all ages, primarily classmates or office colleagues. In other words, groups of people who have to be at the same place at the same time on a regular basis (class, office, work, gym, etc.) and see each other at that location in person.
+We assume that in most use cases, a user will set as an accountability buddy a friend who a user will see at her destination place.  Otherwise, a user can set any friend to be her accountability buddy. We envision our primary users to be adults of all ages, for example, classmates, friends, gym buddies or office colleagues. In other words, people who have to be at a certain place at a certain time (class, office, work, gym, etc.) and, presumably but not necessarily, see in person their friend at that location.
 
 ## The Solution 
 
@@ -33,31 +33,31 @@ We aim to solve two main problems.
 
 \#2 Although there are some accountability apps on the market, non-monetary incentive is not strong enough motive for someone to be on-time when they have a habit of being late.
 
-#### Baseline features
+## Baseline features
 
-* A user will be able to save the time, days, location they have to be at on time on a regular basis. 
-* A user will be able to select their accountability buddy from the list of their phone contacts and connect the app to their venmo account. 
-* If a user is late to the place they have to be at by a certain time, the app will send a venmo payment to their accountability buddy of the amount the user set up. 
+* A user will be able to save the time, day, location they have to be at on time. 
+* A user will be able to select their accountability buddy from the list of their phone contacts and connect the app to their Venmo account. 
+* If a user is late to the place they have to be at by a certain time, the app will send a Venmo payment to their accountability buddy of the amount the user set up. 
 * Sleek, enjoyable + easy to use UI/UX.
-* On first launch, the user is presented with illustration and text instructions on using the app and app's concept.
+* On first launch, the user is presented with illustration and text instructions on how to use the app and app's concept.
 
 **Venmo Integration**
-* Set up payments between two users, withdrawal or deposit depending on what happens to the contractee. If a user is late to the place they have to be at by a certain time, the app will send a venmo payment to their accountability buddy of the amount the user set up.  
+* Set up payments between two users, withdrawal or deposit depending on what happens to the contractee. If a user is late to the place they have to be at by a certain time, the app will send a Venmo payment to their accountability buddy of the amount the user set up.  
 
 **Apple Maps Integration and Building Geofences**
-* Use mapkit to pinpoint current location, search a location or drop a pin to save a user's location "to be on time". The app will build a geofence around the saved locaiton. The app will start tracking user's location, and if a user is not at a place they have to be at by a certain time, the app will send a venmo payment from their account to their accountability buddy. 
+* Use mapkit to pinpoint current location, search a location or drop a pin to save a user's location "to be on time". The app will build a geofence around the saved locaiton. The app will start tracking user's location, and if a user is not at a place they have to be at by a certain time, the app will send a Venmo payment from their account to their accountability buddy. 
 
 #### Bonus features
 
-* Automatic social media updates about lateness/on time status of a user (aka "public shaming").  
-* Twilio to be able to send text messages whenever a contract is complete, or when money is taken out of your Venmo account.  
+* Automatic social media updates about lateness/on time status of a user (aka "public shaming") with an opt-out feature.  
+* Twilio to be able to send text message to an accountability buddy with a deep link to the app in the App Store, and/or to "accept the challenge" and to participate in the goal to be on time.  
 
 
-### Wireframe
+### Wireframes
 Please review wireframes [here](https://www.dropbox.com/sh/9kjgqti1tr437rx/AAAswrCjfBdhP-NHhuG3btlya?dl=0).
 
 
-[Presentation Deck] (http://slides.com/charleskang/neverlate#/)
+[Presentation Deck] (https://www.dropbox.com/s/h6eqccpx3hknhs7/NLPresentationDeck.key?dl=0)
 
 
 ## Execution
