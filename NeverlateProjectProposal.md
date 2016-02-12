@@ -57,7 +57,7 @@ We aim to solve two main problems.
 Please review wireframes [here](https://www.dropbox.com/sh/9kjgqti1tr437rx/AAAswrCjfBdhP-NHhuG3btlya?dl=0).
 
 
-[Presentation Deck] (https://www.dropbox.com/s/h6eqccpx3hknhs7/NLPresentationDeck.key?dl=0)
+[Presentation Deck] (https://speakerdeck.com/ayunav/neverlate-app)
 
 
 ## Execution
