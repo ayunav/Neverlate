@@ -1,10 +1,10 @@
 # Neverlate
 
 
-**Team**: Ayuna Vogel, Charles Kang, Eric Sze.s
+**Team**: Ayuna Vogel, Charles Kang, Eric Sze.
 
 
-**Neverlate** is a self-improvement iOS app that helps motivate you to be on time. Put money at stake and pick a friend to be your accountability buddy. If you’re late, you gotta pay!  
+**Neverlate** is a self-improvement iOS app for people who are often late. Put money at stake and pick a friend to be your accountability buddy. If you’re late, you gotta pay!  
 
 
 ####How it works
