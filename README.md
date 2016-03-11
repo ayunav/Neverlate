@@ -21,7 +21,7 @@
 
 We hope that our app will motivate you to be on time, and that you'll be Neverlate again! 👍 👏 🎉
 
-![NeverLate app wireframe - work-in-progress](https://cloud.githubusercontent.com/assets/12476189/11171415/c77b5e74-8bbd-11e5-96a8-184a56650708.png)
+![Neverlate video demo](https://github.com/ayunav/Neverlate/blob/master/NeverlateDemo.gif)
 
 For more information, check out our [project proposal](https://github.com/ayunav/NeverLateApp/blob/master/NeverLateProjectProposal.md).
 
