@@ -53,9 +53,7 @@ We aim to solve two main problems.
 * Twilio to be able to send text message to an accountability buddy with a deep link to the app in the App Store, and/or to "accept the challenge" and to participate in the goal to be on time.  
 
 
-### Wireframes
-Please review wireframes [here](https://www.dropbox.com/sh/9kjgqti1tr437rx/AAAswrCjfBdhP-NHhuG3btlya?dl=0).
-
+### Presentation Deck 
 
 [Presentation Deck] (https://speakerdeck.com/ayunav/neverlate-app)
 
