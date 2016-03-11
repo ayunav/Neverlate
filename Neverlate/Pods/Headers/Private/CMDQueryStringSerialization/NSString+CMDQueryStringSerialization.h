@@ -1,0 +1,1 @@
+../../../CMDQueryStringSerialization/CMDQueryStringSerialization/NSString+CMDQueryStringSerialization.h

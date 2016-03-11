@@ -1,0 +1,1 @@
+../../../Venmo-iOS-SDK/venmo-sdk/Models/VENSession.h

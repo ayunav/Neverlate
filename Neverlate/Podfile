@@ -1,0 +1,4 @@
+pod 'Parse' 
+pod "DXPopover"
+pod 'Venmo-iOS-SDK', '~>1.3'
+pod 'EAIntroView', '~> 2.7.0'

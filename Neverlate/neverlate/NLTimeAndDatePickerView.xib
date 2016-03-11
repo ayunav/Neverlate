@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9060" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="NLTimeAndDatePickerView">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <datePicker contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="time" minuteInterval="1" translatesAutoresizingMaskIntoConstraints="NO" id="iXT-jk-GSQ">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="286"/>
+                    <animations/>
+                    <date key="date" timeIntervalSinceReferenceDate="469842750.999448">
+                        <!--2015-11-21 23:52:30 +0000-->
+                    </date>
+                    <locale key="locale" localeIdentifier="en_US"/>
+                </datePicker>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="E6v-qI-TSz">
+                    <rect key="frame" x="0.0" y="286" width="600" height="270"/>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="600" id="DAw-PP-z0r"/>
+                        <constraint firstAttribute="height" constant="270" id="quG-vf-ZwO"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="DAw-PP-z0r"/>
+                        </mask>
+                    </variation>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="L9w-cN-HOW" userLabel="buttonViewContainer">
+                    <rect key="frame" x="0.0" y="556" width="600" height="44"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sm8-7i-GRF">
+                            <rect key="frame" x="300" y="0.0" width="300" height="44"/>
+                            <animations/>
+                            <color key="backgroundColor" red="0.84705882349999995" green="0.1176470588" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="thU-hj-AqT"/>
+                            </constraints>
+                            <state key="normal" title="Set">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="thU-hj-AqT"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="setButtonTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="P6d-Cc-hYx"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ib2-HE-0RH">
+                            <rect key="frame" x="0.0" y="0.0" width="300" height="44"/>
+                            <animations/>
+                            <color key="backgroundColor" red="0.84705882349999995" green="0.1176470588" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="vqN-fs-sup"/>
+                            </constraints>
+                            <state key="normal" title="Cancel">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="vqN-fs-sup"/>
+                                </mask>
+                            </variation>
+                            <connections>
+                                <action selector="cancelButtonTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="N1I-Eu-GyH"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="Qtx-Vb-0Jh"/>
+                        <constraint firstItem="Ib2-HE-0RH" firstAttribute="leading" secondItem="L9w-cN-HOW" secondAttribute="leading" id="aHx-PJ-GfD"/>
+                        <constraint firstItem="Ib2-HE-0RH" firstAttribute="top" secondItem="L9w-cN-HOW" secondAttribute="top" id="aQs-RD-jIy"/>
+                        <constraint firstItem="Ib2-HE-0RH" firstAttribute="width" secondItem="sm8-7i-GRF" secondAttribute="width" id="cMM-PJ-RWB"/>
+                        <constraint firstAttribute="bottom" secondItem="sm8-7i-GRF" secondAttribute="bottom" id="dIn-Y0-VrN"/>
+                        <constraint firstAttribute="bottom" secondItem="Ib2-HE-0RH" secondAttribute="bottom" id="oFo-kh-xpO"/>
+                        <constraint firstAttribute="trailing" secondItem="sm8-7i-GRF" secondAttribute="trailing" id="qvZ-gl-y43"/>
+                        <constraint firstItem="sm8-7i-GRF" firstAttribute="top" secondItem="L9w-cN-HOW" secondAttribute="top" id="wUT-bE-0gO"/>
+                        <constraint firstItem="sm8-7i-GRF" firstAttribute="leading" secondItem="Ib2-HE-0RH" secondAttribute="trailing" id="zc6-WS-vQp"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="E6v-qI-TSz" firstAttribute="top" secondItem="iXT-jk-GSQ" secondAttribute="bottom" id="1xQ-zz-s5A"/>
+                <constraint firstAttribute="trailing" secondItem="iXT-jk-GSQ" secondAttribute="trailing" id="AFI-V1-KQC"/>
+                <constraint firstItem="E6v-qI-TSz" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Cyp-2V-72y"/>
+                <constraint firstItem="iXT-jk-GSQ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Efz-ki-Udp"/>
+                <constraint firstAttribute="trailing" secondItem="L9w-cN-HOW" secondAttribute="trailing" id="JOH-mX-HC6"/>
+                <constraint firstItem="iXT-jk-GSQ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Nsa-oq-7iV"/>
+                <constraint firstAttribute="bottom" secondItem="E6v-qI-TSz" secondAttribute="bottom" id="ZZZ-2f-48V"/>
+                <constraint firstAttribute="trailing" secondItem="E6v-qI-TSz" secondAttribute="trailing" id="eYX-eK-tOx"/>
+                <constraint firstAttribute="bottom" secondItem="L9w-cN-HOW" secondAttribute="bottom" id="oci-6L-V5b"/>
+                <constraint firstItem="L9w-cN-HOW" firstAttribute="top" secondItem="E6v-qI-TSz" secondAttribute="bottom" id="wAQ-xf-kck"/>
+                <constraint firstItem="L9w-cN-HOW" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="xle-TI-rZl"/>
+            </constraints>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="ZZZ-2f-48V"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="buttonViewContainer" destination="L9w-cN-HOW" id="Bti-Il-xsg"/>
+                <outlet property="calendarViewContainer" destination="E6v-qI-TSz" id="JIH-eC-oL3"/>
+                <outlet property="cancelButton" destination="Ib2-HE-0RH" id="SGI-8q-DHH"/>
+                <outlet property="datePicker" destination="iXT-jk-GSQ" id="IAs-j0-2KS"/>
+                <outlet property="saveButton" destination="sm8-7i-GRF" id="cEd-kS-hG7"/>
+            </connections>
+        </view>
+    </objects>
+</document>

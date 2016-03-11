@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="81" id="woX-3Z-eph" customClass="NLMyGoalDataCustomTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="378" height="81"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="woX-3Z-eph" id="T2d-VV-53F">
+                <rect key="frame" x="0.0" y="0.0" width="378" height="80.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m7F-Tp-dKm">
+                        <rect key="frame" x="15" y="8" width="348" height="23"/>
+                        <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="19"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalCompressionResistancePriority="749" text="Label" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HEp-2O-nfj">
+                        <rect key="frame" x="15" y="39" width="348" height="33"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="m7F-Tp-dKm" secondAttribute="trailing" constant="15" id="35Q-Iw-YLQ"/>
+                    <constraint firstItem="HEp-2O-nfj" firstAttribute="leading" secondItem="T2d-VV-53F" secondAttribute="leading" constant="15" id="7Ra-s3-K9c"/>
+                    <constraint firstItem="m7F-Tp-dKm" firstAttribute="leading" secondItem="T2d-VV-53F" secondAttribute="leading" constant="15" id="Ved-i6-P3F"/>
+                    <constraint firstItem="HEp-2O-nfj" firstAttribute="top" secondItem="m7F-Tp-dKm" secondAttribute="bottom" constant="8" id="n8N-aZ-DEr"/>
+                    <constraint firstAttribute="trailing" secondItem="HEp-2O-nfj" secondAttribute="trailing" constant="15" id="nhg-fR-iFa"/>
+                    <constraint firstItem="m7F-Tp-dKm" firstAttribute="top" secondItem="T2d-VV-53F" secondAttribute="top" constant="8" id="orI-g4-0pt"/>
+                    <constraint firstAttribute="bottom" secondItem="HEp-2O-nfj" secondAttribute="bottom" constant="8" id="vLj-JS-19V"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="dateAndTimeLabel" destination="m7F-Tp-dKm" id="AeU-gD-pYr"/>
+                <outlet property="myGoalStringLabel" destination="HEp-2O-nfj" id="jnH-4Q-zge"/>
+            </connections>
+            <point key="canvasLocation" x="423" y="134.5"/>
+        </tableViewCell>
+    </objects>
+</document>

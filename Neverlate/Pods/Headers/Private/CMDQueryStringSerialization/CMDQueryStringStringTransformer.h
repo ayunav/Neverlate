@@ -1,0 +1,1 @@
+../../../CMDQueryStringSerialization/CMDQueryStringSerialization/CMDQueryStringStringTransformer.h

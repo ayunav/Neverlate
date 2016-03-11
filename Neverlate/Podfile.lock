@@ -1,0 +1,35 @@
+PODS:
+  - Bolts/Tasks (1.5.0)
+  - CMDQueryStringSerialization (0.2.0)
+  - DXPopover (0.1.1)
+  - EAIntroView (2.7.4):
+    - EARestrictedScrollView (~> 0.2.0)
+  - EARestrictedScrollView (0.2.0)
+  - Parse (1.10.0):
+    - Bolts/Tasks (~> 1.5)
+  - SSKeychain (1.2.3)
+  - VENCore (3.0.1):
+    - CMDQueryStringSerialization (~> 0.2.0)
+  - Venmo-iOS-SDK (1.3.0):
+    - CMDQueryStringSerialization (~> 0.2.0)
+    - SSKeychain (~> 1.2.2)
+    - VENCore (~> 3.0.0)
+
+DEPENDENCIES:
+  - DXPopover
+  - EAIntroView (~> 2.7.0)
+  - Parse
+  - Venmo-iOS-SDK (~> 1.3)
+
+SPEC CHECKSUMS:
+  Bolts: 722ab9a4f8b50fc4ed1b9998a5a7a2b3f16d80b4
+  CMDQueryStringSerialization: 15f9004212bbc72533bb533f63df79d90a00a7d8
+  DXPopover: 13e6bbd1a0da4e62b2190de51f43a94850769e0f
+  EAIntroView: 50b85eedf414260e61330070ffe5947e72493a62
+  EARestrictedScrollView: f86d61e16c61d3e93c84f8e96e83122a2a3b7631
+  Parse: 90b2544822200f84b18bfacc4e8b0a3a6c3584a2
+  SSKeychain: 3f42991739c6c60a9cf1bbd4dff6c0d3694bcf3d
+  VENCore: 7adedc7c0e65e3ba922cc21c35f3d0e133d43df7
+  Venmo-iOS-SDK: 456097c6df57544362719ea8db01541953aec44d
+
+COCOAPODS: 0.39.0
