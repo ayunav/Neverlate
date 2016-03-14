@@ -26,4 +26,4 @@ We hope that our app will motivate you to be on time, and that you'll be Neverla
 For more information, check out our [project proposal](https://github.com/ayunav/NeverLateApp/blob/master/NeverLateProjectProposal.md).
 
 
-Made with ♥ ️in NYC by Ayuna Vogel, Charles Kang and Eric Sze for [Access Code 2.2] (http://www.c4q.nyc/accesscode).
+Made with ♥ ️in NYC by Ayuna Vogel, Charles Kang and Eric Sze.
